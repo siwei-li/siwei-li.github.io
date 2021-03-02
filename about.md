@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于我
+title: About
 permalink: /about/
 ---
 
-何鸿波，来自南京，定居北京，Python 程序员，没啥建树。
+Oh I haven't quite thought about what to put here.
