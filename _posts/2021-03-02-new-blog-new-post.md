@@ -3,17 +3,6 @@ layout: post
 title: What a mess!
 date: 2021-03-02
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
 ---
 
 Why does this blog even exists?
